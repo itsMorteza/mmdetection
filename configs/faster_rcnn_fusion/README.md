@@ -9,4 +9,4 @@ currently, we support the following fusion methods:
 - CAT
 - MUL
 - BGF
-- MFB
+- MFB 
