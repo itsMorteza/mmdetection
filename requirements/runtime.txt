@@ -4,3 +4,4 @@ pycocotools
 scipy
 six
 terminaltables
+numba==0.55
